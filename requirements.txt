@@ -1,0 +1,4 @@
+streamlit>=1.36
+matplotlib>=3.7
+timezonefinder>=6.5
+tzdata
